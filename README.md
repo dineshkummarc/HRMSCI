@@ -1,1 +1,2 @@
-# HRMSCI
+# phpmyHRMS
+formerly HRMSCI
